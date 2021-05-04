@@ -1,5 +1,7 @@
-Nama Wilayah &emsp; Jumlah Positif &emsp; Jumlah Dirawat &emsp; Jumlah Sembuh &emsp; Jumlah Meninggal
+<font size="4">Nama Wilayah &emsp; Jumlah Positif &emsp; Jumlah Dirawat &emsp; Jumlah Sembuh &emsp; Jumlah Meninggal</font><br>
 DKI Jakarta	
 Jawa Barat		
 Banten		
-Jawa Tengah	
+Jawa Tengah
+Nama Operator &nbsp;&nbsp;&nbsp;&nbsp; Achmad Ferrysqo Irawan
+NIM Mahasiswa &nbsp;&nbsp;&nbsp;&nbsp; 181011401138 
