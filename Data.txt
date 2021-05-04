@@ -1,0 +1,5 @@
+Nama Wilayah &emsp; Jumlah Positif &emsp; Jumlah Dirawat &emsp; Jumlah Sembuh &emsp; Jumlah Meninggal
+DKI Jakarta	
+Jawa Barat		
+Banten		
+Jawa Tengah	
